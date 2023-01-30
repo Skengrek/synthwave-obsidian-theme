@@ -18,7 +18,7 @@
 }
 
 /*Dark Theme Variables*/
-.theme-dark .theme-light {
+.theme-dark .theme-light{
     --background-modifier-cover: rgba(0, 0, 0, 0.8);
     /*Obsidian Title Bar Bg*/
     --background-primary: #202020;
